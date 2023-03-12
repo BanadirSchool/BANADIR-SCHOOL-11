@@ -33,7 +33,7 @@
                 <tr>
                     <td> ANATOMY </td>
                     <td>60 
-                        <td> E
+                        <td> D
                     </td>
                     <td> CAAFIMAAD
                     </td>
